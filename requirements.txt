@@ -1,0 +1,14 @@
+certifi==2020.12.5
+chardet==4.0.0
+colorama==0.4.4
+idna==2.10
+pip==20.1.1
+pygame==2.0.1
+pypiwin32==223
+pywin32==300
+requests==2.25.1
+setuptools==47.1.0
+six==1.15.0
+urllib3==1.26.4
+win10toast==0.9
+Pillow==8.1.2
